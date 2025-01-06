@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_FLOW/mlruns/0/cda1ef65606f4e13b55b17fc84bf7808/artifacts
+end_time: 1736151037311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cda1ef65606f4e13b55b17fc84bf7808
+run_name: salty-trout-877
+run_uuid: cda1ef65606f4e13b55b17fc84bf7808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736151033643
+status: 3
+tags: []
+user_id: mahen

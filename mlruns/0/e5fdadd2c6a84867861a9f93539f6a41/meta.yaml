@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_FLOW/mlruns/0/e5fdadd2c6a84867861a9f93539f6a41/artifacts
+end_time: 1736150785611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5fdadd2c6a84867861a9f93539f6a41
+run_name: resilient-fox-522
+run_uuid: e5fdadd2c6a84867861a9f93539f6a41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736150778225
+status: 3
+tags: []
+user_id: mahen
